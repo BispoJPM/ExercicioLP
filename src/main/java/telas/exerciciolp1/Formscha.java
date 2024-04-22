@@ -45,7 +45,7 @@ public class Formscha extends Application {
         vbox.getChildren().addAll(nameLabel, nameInput, tempLabel, tempInput, smellLabel, smellInput, submitButton);
 
         // Imagem de fundo
-        ImageView backgroundImageView = new ImageView(new Image("https://github-production-user-asset-6210df.s3.amazonaws.com/142633184/310901740-23cbc9f8-1b2f-4b69-a1f5-5362c1056096.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240422%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240422T013720Z&X-Amz-Expires=300&X-Amz-Signature=6e58f4d4c0e83f0599398a6ecd86288e6ede5503491e5c0df23af6c587477bb6&X-Amz-SignedHeaders=host&actor_id=142633184&key_id=0&repo_id=764385183"));
+        ImageView backgroundImageView = new ImageView(new Image("https://github.com/BispoJPM/ExercicioLP/assets/142633184/72bec4d8-ef17-47af-b2ed-a227a104638a"));
         backgroundImageView.setFitWidth(400);
         backgroundImageView.setFitHeight(300);
 
