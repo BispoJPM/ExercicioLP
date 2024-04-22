@@ -1,0 +1,120 @@
+Exercicio 1
+
+Anos: 22
+Meses: 2
+Dias: 10
+
+Idade em dias: 8100
+================================================================================================================================
+Exercicio 2
+
+Votos em branco: 30 
+Votos nulos: 30
+Votos válidos: 40
+
+Total de Eleitores: 100
+% Branco: 30    
+% Nulos: 30
+% Válidos: 40
+================================================================================================================================
+Exercicio 3
+
+Salário atual: R$ 2100
+Percentual de reajuste: 8%
+
+Salário com reajuste: R$ 2268
+================================================================================================================================
+Exercicio 4
+
+Custo de Fábrica: R$ 25.000
+
+Valor para o consumidor: R$ 43.250
+================================================================================================================================
+Exercicio 5
+
+Quantidade de carros vendidos: 10
+Valor total das vendas: R$ 125.000
+Salário Fixo: R$ 3.500
+Comissão Fixa: 10
+
+Salário Final: R$ 9.850
+================================================================================================================================
+Exercicio 6
+
+Temperatura de Fahrenehit: 212
+Temperatura em Celsius: 100
+
+================================================================================================================================
+Exercicio 7 
+
+Digite um valor: 10
+10 é igual a 10!
+Digite um valor: 11
+11 é maior que 10!
+Digite um valor: 9
+9 é menor que 10!
+
+================================================================================================================================
+Exercicio 8 
+
+Digite um valor: 10
+Este número é positivo!
+Digite um valor: -10
+Este número é negativo!
+
+================================================================================================================================
+Exercicio 9
+
+Digite a quantidade de maças compradas: 13
+Custo total das maças foi de: R$ 13.0
+Digite a quantidade de maças compradas: 5
+Custo total das maças foi de: R$ 6.5
+
+================================================================================================================================
+Exercicio 10
+
+Digite a nota da atividade 1: 10
+Digite a nota da atividade 2: 2
+Sua média foi de 6.0 Parabens, você foi aprovado!
+Digite a nota da atividade 1: 5
+Digite a nota da atividade 2: 5
+Sua média foi de 5.0 Tente novamente, você foi reprovado!
+
+================================================================================================================================
+Exercicio 11
+
+Digite o ano de seu nascimento: 2001
+Digite o ano atual: 2024
+Você pode votar!
+Digite o ano de seu nascimento: 2009
+Digite o ano atual: 2024
+Você não pode votar!
+
+================================================================================================================================
+Exercicio 12
+
+Digite o primeiro valor: 15
+Digite o segundo valor: 70
+O maior valor é: 70.0
+
+================================================================================================================================
+Exercicio 13
+
+Digite o primeiro valor: 15
+Digite o segundo valor: 70
+Os valores em ordem crescente é: 70.0, 15.0
+
+================================================================================================================================
+Exercicio 14
+
+Digite a hora inicial: 
+15
+Digite a hora final: 
+10
+A duração do jogo foi de 19.0 horas.
+================================================================================================================================
+Exercicio 15
+
+Digite o número de horas trabalhadas no mês: 40
+Digite o salário por hora: 150
+O salário total do funcionário é: 6000.0
