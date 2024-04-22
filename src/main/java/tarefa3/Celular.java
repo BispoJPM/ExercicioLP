@@ -1,6 +1,6 @@
 package tarefa3;
 public class Celular {
-    // https://github.com/BispoJPM/LP1/assets/142633184/37c6e0a0-c167-4be9-91d7-56462a0b8fd3
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/d6ad3cc1-fbac-49e6-b272-903706eb84c4
 
     private String marca;
     private int cameras;

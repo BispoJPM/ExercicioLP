@@ -1,6 +1,6 @@
 package tarefa3;
 public class Chá {
-    // https://github.com/BispoJPM/LP1/assets/142633184/23cbc9f8-1b2f-4b69-a1f5-5362c1056096
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/b634f29b-9ea8-4d44-adb9-6c6e84775e50
 
     private String nome;
     private int temperatura;

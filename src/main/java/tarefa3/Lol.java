@@ -1,6 +1,6 @@
 package tarefa3;
 public class Lol {
-    // https://github.com/BispoJPM/LP1/assets/142633184/69e08463-236b-429e-82d9-0b5820453b5c
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/1acbe854-d254-4c78-bb4d-bfece8ebd3c4
 
     private String classe;
     private String posição;

@@ -24,7 +24,7 @@ public class Formscoxinha extends Application {
         vbox.setPadding(new Insets(20));
 
         // Label para a receita da massa
-        Label receitaLabel = new Label("Qual a receita da Massa:");
+        Label receitaLabel = new Label("A massa é feita de:");
         // TextField para inserir a receita da massa
         TextField receitaText = new TextField();
 
@@ -45,7 +45,7 @@ public class Formscoxinha extends Application {
         vbox.getChildren().addAll(receitaLabel, receitaText, tamanhoLabel, tamanhoText, recheioLabel, recheioText, enviarButton);
 
         // Imagem de fundo
-        Image backgroundImage = new Image("https://raw.githubusercontent.com/BispoJPM/LP1/main/tarefa4/imagens/coxinha.jpeg");
+        Image backgroundImage = new Image("https://github.com/BispoJPM/ExercicioLP/assets/142633184/5f0f0249-1e6b-4c0f-84d8-653c3b0aa223");
         ImageView backgroundImageView = new ImageView(backgroundImage);
         backgroundImageView.setFitWidth(400);
         backgroundImageView.setFitHeight(300);

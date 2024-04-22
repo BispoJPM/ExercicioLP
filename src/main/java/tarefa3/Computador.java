@@ -1,7 +1,7 @@
 package tarefa3;
 public class Computador {
 
-    // https://github.com/BispoJPM/LP1/assets/142633184/9057e1a0-75a9-4b62-97cd-cd745d947c80
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/e3680db1-7d6f-486b-8b4e-79e1bcd48214
 
     private String marca;
     private int memoria;

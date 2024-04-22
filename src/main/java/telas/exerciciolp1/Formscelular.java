@@ -42,7 +42,7 @@ public class Formscelular extends Application {
         vbox.getChildren().addAll(marcaLabel, marcaText, cameraLabel, cameraText, corLabel, corText, enviarButton);
 
         // Imagem de fundo
-        Image backgroundImage = new Image("https://raw.githubusercontent.com/BispoJPM/LP1/main/tarefa4/imagens/celular.png");
+        Image backgroundImage = new Image("https://github.com/BispoJPM/ExercicioLP/assets/142633184/d6ad3cc1-fbac-49e6-b272-903706eb84c4");
         ImageView backgroundImageView = new ImageView(backgroundImage);
         backgroundImageView.setFitWidth(400);
         backgroundImageView.setFitHeight(300);

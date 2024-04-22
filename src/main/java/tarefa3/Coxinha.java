@@ -1,7 +1,7 @@
 package tarefa3;
 public class Coxinha {
 
-    // Link: https://github.com/BispoJPM/LP1/assets/142633184/6cc82eeb-07a5-4114-9b41-9cd49aebed51
+    // Link: https://github.com/BispoJPM/ExercicioLP/assets/142633184/5f0f0249-1e6b-4c0f-84d8-653c3b0aa223
 
     private String receita;
     private String tamanho;

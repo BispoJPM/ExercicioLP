@@ -1,6 +1,6 @@
 package tarefa3;
 public class Pokemon {
-    // https://github.com/BispoJPM/LP1/assets/142633184/c3d2dd3a-9cde-4862-808b-9359579febb9
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/025c34af-f1e9-4222-9bf1-83494996b9ac
 
     private String tipo;
     private Double tamanho;

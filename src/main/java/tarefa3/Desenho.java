@@ -1,7 +1,7 @@
 package tarefa3;
 public class Desenho {
     
-    // https://github.com/BispoJPM/LP1/assets/142633184/dacb8858-381a-43a2-bfbe-ce032e72e797
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/89d3a651-145c-4aa6-9d7b-bcd1802e0fc0
 
     private String nome;
     private double horario;

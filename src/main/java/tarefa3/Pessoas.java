@@ -1,6 +1,6 @@
 package tarefa3;
 public class Pessoas {
-    // https://github.com/BispoJPM/LP1/assets/142633184/af65d10c-164b-4703-b1af-f9f4e00945c1
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/4946920f-462e-4be1-b90f-efeb687d3883
 
     private String nome;
     private double altura;

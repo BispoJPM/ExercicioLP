@@ -1,6 +1,6 @@
 package tarefa3;
 public class Flores {
-    // https://github.com/BispoJPM/LP1/assets/142633184/07caef6b-a244-44ad-b997-09f6ca78d720
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/3b5a2f4a-5d1a-444b-a370-5546aa143524
 
     private String estação;
     private int petalas;

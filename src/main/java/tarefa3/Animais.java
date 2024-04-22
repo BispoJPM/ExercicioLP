@@ -1,7 +1,7 @@
 package tarefa3;
 public class Animais {
 
-    // https://github.com/BispoJPM/LP1/assets/142633184/debdddcf-c87b-4a2d-9502-68202e479e27
+    // https://github.com/BispoJPM/ExercicioLP/assets/142633184/91a00a0c-8a9b-40cf-9879-d4d3cd0f10bb
 
         private int pernas;
         private String tipo;
